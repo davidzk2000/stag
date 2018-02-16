@@ -22,6 +22,11 @@ pull request
 *** pull master branch
 git pull origin master
 
-*** pull master to local
+*** pull current branch
+git pull
+
+*** switch to master branch
 git checkout master
 
+*** skip adding to stage
+git commit -a
