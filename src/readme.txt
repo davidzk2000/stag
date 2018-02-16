@@ -4,7 +4,7 @@ git config
 git log
 
 git add "file name"
-*** -m, - b, -u
+*** -m inline msg when commit, - b, -u
 git commit -m "msg"
 git checkout -b branch-name
 
