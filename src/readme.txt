@@ -15,7 +15,7 @@ git checkout -b branch-name
 git remote add origin https://
 
 *** push master branch to remote repo,
-*** -u: local branch pull from remote without indication
+*** -u: local branch pull from / push to remote without indication
 git push -u origin master
 
 *** push my-branch to remote repo
