@@ -47,3 +47,4 @@ git remote rename oldname new namge
 *** merge branch2 to branch1
 git checkout branch1
 git merge branch2
+git push branch1
